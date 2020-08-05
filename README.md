@@ -1,4 +1,4 @@
-# Programa de cursos integrados Python para todosPython para todos
+# Programa de cursos integrados Python
 #### Learn to Program and Analyze Data with Python. Develop programs to gather, clean, analyze, and visualize data.
 ### Série de cursos 5
 ## HABILIDADES
